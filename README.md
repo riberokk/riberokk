@@ -7,7 +7,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Tecnico em Desenvolvimento de Sistemas](https://sp.senai.br/curso/tecnico-em-desenvolvimento-de-sistemas/102811)] - [ [Senai Conde Alexandre Siciliano](https://sp.senai.br/unidade/jundiai/) | Curso]
+🎓 Eu estudo [[Tecnico em Desenvolvimento de Sistemas](https://sp.senai.br/curso/tecnico-em-desenvolvimento-de-sistemas/102811)] - [[Senai Conde Alexandre Siciliano](https://sp.senai.br/unidade/jundiai/)]
 
 **Tecnologias e Ferramentas**
 
