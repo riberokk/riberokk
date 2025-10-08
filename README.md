@@ -38,18 +38,8 @@
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Black Noir](https://github.com/riberokk/ProjetoWebSite-BlackNoir): Um e-commerce focado na moda negra criado a partir de HTML, CSS e um pouco de JavaScript.
-
-## Vamos Criar Algo Incrível! 💫
-
-💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
-
-## 📊 Estatísticas de Codificação da Semana
-
-<p>⏱ Atualizado automaticamente com [WakaTime](https://wakatime.com) todos os dias</p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+1. [Black Noir](https://github.com/devribero/ProjetoWebSite-BlackNoir): Um e-commerce focado na moda negra criado a partir de HTML, CSS e um pouco de JavaScript.
+2. [Hand Tracking](https://github.com/ccadu86/HAND_TRACKING): Um projeto que visa detectar os movimentos dos dedos para realizar a ativação dos leds especificos para cada dedo 
 
 ## Github Stats  
 <table>
