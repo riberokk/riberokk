@@ -38,7 +38,7 @@
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Caremind](https://github.com/devribero/caremind): CareMind é uma plataforma focada em gerenciamento e suporte à saúde, utilizando tecnologia para organizar informações, otimizar processos e melhorar a experiência do usuário.
+1. [Caremind](https://github.com/devribero/caremind): Uma plataforma focada em gerenciamento e suporte à saúde, utilizando tecnologia para organizar informações, otimizar processos e melhorar a experiência do usuário.
 2. [Hand Tracking](https://github.com/ccadu86/HAND_TRACKING): Um projeto que visa detectar os movimentos dos dedos para realizar a ativação dos leds especificos para cada dedo 
 
 ## Github Stats  
