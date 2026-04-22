@@ -34,11 +34,11 @@
   <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="60" /></a>  
 </div>
 
-## Projetos Criativos
+## Projetos
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Black Noir](https://github.com/devribero/ProjetoWebSite-BlackNoir): Um e-commerce focado na moda negra criado a partir de HTML, CSS e um pouco de JavaScript.
+1. [Black Noir](https://github.com/devribero/caremind): CareMind é uma plataforma focada em gerenciamento e suporte à saúde, utilizando tecnologia para organizar informações, otimizar processos e melhorar a experiência do usuário.
 2. [Hand Tracking](https://github.com/ccadu86/HAND_TRACKING): Um projeto que visa detectar os movimentos dos dedos para realizar a ativação dos leds especificos para cada dedo 
 
 ## Github Stats  
